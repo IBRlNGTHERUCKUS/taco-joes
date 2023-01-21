@@ -16,6 +16,14 @@
     padding: 0 10px;
 }
 
-.address {
-    
+.linkbar-container {
+    background-color: bisque;
+    padding: 5px;
+    margin: 5px;
+}
+
+.linkbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
