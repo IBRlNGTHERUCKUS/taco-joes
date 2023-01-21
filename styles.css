@@ -35,5 +35,13 @@
 }
 
 .menu-section {
+    padding: 10 px;
     height: 500px;
+}
+
+.dinner-list {
+    padding: 10px 17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
